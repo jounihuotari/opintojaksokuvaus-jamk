@@ -6,7 +6,7 @@ Tietoverkkojen palvelunlaadun suunnittelu
 
 ## Koodi
 
-TTTW0220
+[TTTW0220](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTTW0220&knro=&ark=&lan=f)
 
 ## Tyyppi	
 
